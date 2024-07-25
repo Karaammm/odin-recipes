@@ -1,0 +1,20 @@
+.header {
+    background-color: #a0df6c;
+    font-size: 40;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#foodlist {
+    background-color: aqua;
+    color: black;
+    font-size: 30;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.food {
+    background-color: #6262fc;
+    color: black;
+    font-size: 20;
+    font-family: 'Courier New', Courier, monospace;
+}
