@@ -1,21 +1,43 @@
+
+.maindiv {
+    background-color: lavender;
+    border: 5px solid #825e5e;
+    padding: 20px;
+    margin: 10 auto;
+    position: center;
+}
+.headerdiv {
+    background-color: coral;
+    border: chocolate 5px solid;
+    padding: 20px;
+    margin: 10px auto;
+    position: center;
+}
 .header {
-    background-color: #a0df6c;
-    font-size: 40;
+    font-size:50px;
     text-align: center;
     font-family: 'Courier New', Courier, monospace;
 }
 
-#foodlist {
-    background-color: aqua;
-    color: black;
-    font-size: 30;
-    font-family: 'Courier New', Courier, monospace;
-    padding: 20px;
+.listdiv {
+    background-color: rgb(166, 255, 255);
+    border: 5px solid #2589a5;
+    padding: 5px 10px;
+    margin: 10px;
+    position: center;
 }
 
+.itemdiv {
+    background-color: rgb(255, 255, 166);
+    display:flex;
+    border: 4px solid #a5a525;
+    padding: 5px 10px;
+    margin: 10px 15px 10px 15px;
+    position: center;
+}
 .food {
-    background-color: #6262fc;
     color: black;
-    font-size: 20;
+    font-size: 25px;
+    font-weight:700;
     font-family: 'Courier New', Courier, monospace;
 }
