@@ -5,6 +5,7 @@
     padding: 20px;
     margin: 10 auto;
     position: center;
+    border-radius: 10px;
 }
 .headerdiv {
     background-color: coral;
@@ -12,6 +13,7 @@
     padding: 20px;
     margin: 10px auto;
     position: center;
+    border-radius: 10px;
 }
 .header {
     font-size:50px;
@@ -25,6 +27,7 @@
     padding: 5px 10px;
     margin: 10px;
     position: center;
+    border-radius: 10px;
 }
 
 .itemdiv {
@@ -34,7 +37,9 @@
     padding: 5px 10px;
     margin: 10px 15px 10px 15px;
     position: center;
+    border-radius: 10px;
 }
+
 .food {
     color: black;
     font-size: 25px;
