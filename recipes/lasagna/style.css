@@ -1,0 +1,102 @@
+
+
+.maindiv {
+    display: border-box;
+    align-items: center;
+    justify-content: center;
+    border-radius: 10px;
+}
+
+.familylink {
+    display:border-box;
+    font-family:sans-serif;
+    font-size:20px;
+    font-weight: 700;
+    margin:100px auto 20px 50px;
+}
+
+a {
+    color:black;
+    text-decoration: none;
+}
+ 
+a:hover {
+    color:black;
+    text-decoration: underline red;
+}
+.headerdiv {
+    display:border-box;
+    width:500px;
+    margin-left:200px;
+    background-color:white;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+    
+}
+
+.checked {
+    color: rgb(255, 77, 0);
+}
+
+.starsdiv{
+    display:inline-block;
+    margin-left:200px;
+    margin-right:10px;
+    padding-right:10px;
+    border-right:1px solid grey;
+}
+
+.ratingnumber {
+    display:inline-block;   
+    margin-right: 10px;
+    padding-right: 10px;
+    border-right: 1px solid grey;
+}
+
+.ratingimage {
+    display:inline-block;
+    margin-right: 10px;
+    padding-right: 10px;
+    border-right: 1px solid grey;
+}
+
+
+.rating,.reviews {
+    font-family: sans-serif;
+    font-weight: 700;
+    font-size: 15px;
+
+}
+
+.image {
+    display:block;
+    width:500px;
+    height:auto;
+    margin-left:200px;
+    margin-top:10px;
+}
+
+.titlediv {
+    display:block;
+    margin-left:200px;
+    margin-right:100px;
+}
+
+h2 {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 30px;
+    font-weight: 700;
+}
+
+.descriptiondiv {
+    display: block;
+    margin-left: 200px;
+    margin-right: 100px;
+}
+
+.textclass,.item {
+    font-family: var(--dog-font-family, var(--font-2, inherit));
+    font-size: 20px;
+    margin-top: 10px;
+    margin-right:400px;
+}
